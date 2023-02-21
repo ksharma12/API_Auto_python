@@ -1,0 +1,11 @@
+Django
+
+1. Django url_resolvers
+    a. duty to land the request to correct platform
+    b. it takes the web page address and tries to figure out what to do, it takes the list of patterns
+       tries to match them from top to bottom and if anything matched it passes the request to the
+       appropriate function.
+
+
+2. Django views
+    a.
